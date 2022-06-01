@@ -4,9 +4,7 @@ var data = {
             "levelMax": "4",
             "weight": "1",
             "incompatible": [
-                "Blast Protection",
-                "Fire Protection",
-                "Projectile Protection"
+                ""
             ],
             "items": [
                 "helmet",
@@ -32,8 +30,7 @@ var data = {
             "levelMax": "5",
             "weight": "1",
             "incompatible": [
-                "Smite",
-                "Sharpness"
+                ""
             ],
             "items": [
                 "sword",
@@ -44,9 +41,7 @@ var data = {
             "levelMax": "4",
             "weight": "2",
             "incompatible": [
-                "Fire Protection",
-                "Protection",
-                "Projectile Protection"
+                ""
             ],
             "items": [
                 "helmet",
@@ -115,9 +110,7 @@ var data = {
             "levelMax": "4",
             "weight": "1",
             "incompatible": [
-                "Blast Protection",
-                "Protection",
-                "Projectile Protection"
+                ""
             ],
             "items": [
                 "helmet",
@@ -174,7 +167,7 @@ var data = {
             "levelMax": "1",
             "weight": "4",
             "incompatible": [
-                "Mending"
+                ""
             ],
             "items": [
                 "bow"
@@ -235,7 +228,7 @@ var data = {
             "levelMax": "1",
             "weight": "2",
             "incompatible": [
-                "Infinity"
+                ""
             ],
             "items": [
                 "helmet",
@@ -278,7 +271,8 @@ var data = {
                 "Multishot"
             ],
             "items": [
-                "crossbow"
+                "crossbow",
+		"bow"
             ]
         },
         "Power": {
@@ -295,9 +289,7 @@ var data = {
             "levelMax": "4",
             "weight": "1",
             "incompatible": [
-                "Protection",
-                "Blast Protection",
-                "Fire Protection"
+                ""
             ],
             "items": [
                 "helmet",
@@ -324,7 +316,8 @@ var data = {
                 ""
             ],
             "items": [
-                "crossbow"
+                "crossbow",
+		"bow"
             ]
         },
         "Respiration": {
@@ -353,8 +346,7 @@ var data = {
             "levelMax": "5",
             "weight": "1",
             "incompatible": [
-                "Bane of Arthropods",
-                "Smite"
+                ""
             ],
             "items": [
                 "sword",
@@ -379,8 +371,7 @@ var data = {
             "levelMax": "5",
             "weight": "1",
             "incompatible": [
-                "Bane of Arthropods",
-                "Sharpness"
+                ""
             ],
             "items": [
                 "sword",
